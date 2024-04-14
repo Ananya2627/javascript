@@ -22,3 +22,6 @@ const myfunction=function(){
 }
 console.log(arr);
 console.log(myobj);
+
+//stack and heap memory
+// stack->gives a copy ::: heap->gives a refrence
